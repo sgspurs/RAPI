@@ -1,3 +1,4 @@
-addTwo <- function(a, b){
-  retun(as.numeric(a) + as.numeric(b))
+add <- function(input){
+	newdata = input + 1
+	return(newdata)
 }
